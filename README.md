@@ -1,2 +1,3 @@
 # welcome to 102
-# new line
+# Mr. Shihab aldeen is our coach.
+# we are now learning how to create github pages
